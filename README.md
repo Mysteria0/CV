@@ -4,6 +4,7 @@ Ohjelmistokehityksen opiskelija
 Oulu, Suomi
 ado.donnelly@oppi.luovi.fi
 ## Profiili
+Lorum Ipsum
 ## Taitoalueet
 HTML, CSS, JavaScript
 Python
@@ -13,4 +14,5 @@ Tieto- ja viestintätekniikan perustutkinto, Ohjelmistokehittäjä, Ammattiopist
 ## Kielet
 Suomi (äidinkieli)
 Englanti (äidinkieli)
+
 
