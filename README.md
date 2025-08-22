@@ -5,8 +5,7 @@ Oulu, Suomi
 ado.donnelly@oppi.luovi.fi
 ## Profiili
 ## Taitoalueet
-HTML, CSS, JavaScript,
-
+HTML, CSS, JavaScript
 Python
 Zscript
 ## Koulutus
